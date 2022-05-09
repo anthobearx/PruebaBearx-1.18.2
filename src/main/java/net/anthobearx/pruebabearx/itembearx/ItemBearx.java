@@ -20,6 +20,9 @@ public class ItemBearx {
     public static final Item PLUSH_JOSU = registerItem("plush_josu",
             new Item(new FabricItemSettings().group(ItemGroup.MISC)));
 
+    public static final Item PLUSH_RABBIT = registerItem("plush_rabbit",
+            new Item(new FabricItemSettings().group(ItemGroup.MISC)));
+
     private static Item registerItem(String name, Item item){
         return Registry.register(Registry.ITEM, new Identifier(PruebaBearx.MOD_ID, name), item);
     }
