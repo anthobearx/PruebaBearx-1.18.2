@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "DRD",
+    "PSP",
+    "PPP"
+  ],
+  "key": {
+    "R": {
+      "item": "minecraft:redstone"
+    },
+    "D": {
+      "item": "minecraft:diamond"
+    },
+    "S": {
+      "item": "minecraft:spyglass"
+    },
+    "P": {
+      "item": "pruebabearx:plastic"
+    }
+  },
+  "result": {
+    "item": "pruebabearx:camara",
+    "count": 1
+  }
+}

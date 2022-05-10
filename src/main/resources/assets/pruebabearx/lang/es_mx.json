@@ -1,6 +1,19 @@
 {
   "item.pruebabearx.plush_shark": "Peluche de tiburón",
   "item.pruebabearx.plush_akita": "Peluche de akita inu",
-  "item.pruebabearx.plush_duck": "Plush de patito",
-  "item.pruebabearx.plus_josu": "Plush josu furrita"
+  "item.pruebabearx.plush_duck": "Peluche de patito",
+  "item.pruebabearx.plush_josu": "Peluche josu furrita",
+  "item.pruebabearx.plush_rabbit": "Peluche de conejo",
+
+  "item.pruebabearx.camara": "Cámara",
+  "item.pruebabearx.plastic": "Plástico",
+  "item.pruebabearx.wet_plastic": "Plástico mojado",
+
+  "block.pruebabearx.useless_block": "Bloque inútil",
+  "block.pruebabearx.plastic_block": "Bloque de plástico",
+  "block.pruebabearx.trash_block": "Bloque de basura",
+
+  "itemGroup.pruebabearx.bearxplush": "Peluches bearx",
+  "itemGroup.pruebabearx.bearxblock": "Bloques bearx",
+  "itemGroup.pruebabearx.bearxitem": "Items bearx"
 }

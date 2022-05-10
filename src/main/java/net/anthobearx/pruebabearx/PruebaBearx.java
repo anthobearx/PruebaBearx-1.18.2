@@ -1,5 +1,6 @@
 package net.anthobearx.pruebabearx;
 
+import net.anthobearx.pruebabearx.blockbearx.BlockBearx;
 import net.anthobearx.pruebabearx.itembearx.ItemBearx;
 import net.fabricmc.api.ModInitializer;
 import org.slf4j.Logger;
@@ -13,5 +14,6 @@ public class PruebaBearx implements ModInitializer {
 	@Override
 	public void onInitialize() {
 		ItemBearx.registerModItems();
+		BlockBearx.registerModBlocks();
 	}
 }

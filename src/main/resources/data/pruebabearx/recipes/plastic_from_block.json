@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "pruebabearx:plastic_block"
+    }
+  ],
+  "result": {
+    "item": "pruebabearx:plastic",
+    "count": 9
+  }
+}
